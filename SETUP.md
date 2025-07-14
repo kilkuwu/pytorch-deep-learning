@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD013 -->
 # Getting setup to code PyTorch
 
 Setting up a machine for coding deep learning can be quite involved.
