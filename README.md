@@ -16,3 +16,8 @@ Bấm vào các link dưới đây sẽ mở [Google Colab](https://colab.resear
 
 - [Bài học](https://colab.research.google.com/github/kilkuwu/pytorch-deep-learning/blob/main/lessons/01/lesson.ipynb)
 - [Bài tập](https://colab.research.google.com/github/kilkuwu/pytorch-deep-learning/blob/main/lessons/01/exercises.ipynb)
+
+### Bài 02: Bài toán Phân loại với PyTorch
+
+- [Bài học](https://colab.research.google.com/github/kilkuwu/pytorch-deep-learning/blob/main/lessons/02/lesson.ipynb)
+- [Bài tập](https://colab.research.google.com/github/kilkuwu/pytorch-deep-learning/blob/main/lessons/02/exercises.ipynb)
