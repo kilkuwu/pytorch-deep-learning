@@ -31,3 +31,8 @@ Bấm vào các link dưới đây sẽ mở [Google Colab](https://colab.resear
 
 - [Bài học](https://colab.research.google.com/github/kilkuwu/pytorch-deep-learning/blob/main/lessons/04/lesson.ipynb)
 - [Bài tập](https://colab.research.google.com/github/kilkuwu/pytorch-deep-learning/blob/main/lessons/04/exercises.ipynb)
+
+### Bài 05: Chia notebook thành scripts
+
+- [Bài học](https://colab.research.google.com/github/kilkuwu/pytorch-deep-learning/blob/main/lessons/05/lesson.ipynb)
+- [Bài tập](https://colab.research.google.com/github/kilkuwu/pytorch-deep-learning/blob/main/lessons/05/exercises.ipynb)
