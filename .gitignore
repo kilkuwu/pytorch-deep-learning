@@ -173,3 +173,4 @@ flagged/
 mkdocs-material-insiders
 
 lessons/*/data/
+lessons/*/*/data
